@@ -1,0 +1,4 @@
+genome BT
+trackDb BT/trackDb.txt
+twoBitPath BT/BT.2bit
+chromSizes BT/chrom.sizes

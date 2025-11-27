@@ -1,0 +1,5 @@
+hub BrownTroutHub
+shortLabel Brown Trout
+longLabel Brown Trout Custom Genome Hub
+genomesFile genomes.txt
+email mvc6374@psu.edu
